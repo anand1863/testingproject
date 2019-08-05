@@ -1,4 +1,4 @@
-# Pesting Project
+# Testing Project
 
 In this project I performed smoke testing of the build. I wrote 5 test cases and wrote script to execute those test cases using Selenium webdriver. Login, Signup, Deposit money, withdraw money and transfer money functionalities of the Bank website were tested.
 
